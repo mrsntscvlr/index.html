@@ -12,9 +12,9 @@
       <p>Eu vou ensina como joga clash royale sendo iniciante.</p>
     </header>
     <main>
-          <img src="[](https://pin.it/2PCGfDYml)"  alt="">
+          <img src="https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=pt_BR  alt="é uma imagem da capa do jogo">
           <h2>Meu primeiro post</h2>
-          <p>Por: Maria Clara Cavalari</p>
+          <p>Por: Maria Clara Cavalari
           <p>Bem-vindos ao meu blog! Aqui vou te ensinar o básico e compartilhar algumas táticas de jogo para você que é iniciante no joga clash royale.</p>
         <main>
       </header>
